@@ -9,7 +9,7 @@ Certificado::Certificado(QWidget *parent) :
     ui->setupUi(this);
     m_controlador = new Controlador();
     fecha();
-    m_carnet = QPixmap(502, 325);
+    m_carnet = QPixmap(572, 325);
 }
 
 Certificado::~Certificado()

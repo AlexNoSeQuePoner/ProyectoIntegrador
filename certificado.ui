@@ -62,9 +62,9 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="outCertificado">
     <property name="geometry">
      <rect>
-      <x>140</x>
+      <x>120</x>
       <y>100</y>
-      <width>502</width>
+      <width>572</width>
       <height>321</height>
      </rect>
     </property>
